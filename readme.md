@@ -1,11 +1,11 @@
-# TypeScript demo
+# Borderland code
 
 ## What we will cover
 
-- 1
-- 2
-- 3
+- A story from work
+- How a serious bug happened due to shared code
+- How to avoid it
 
 ## Notes
 
-Some notes
+So some stuff happened at work...
